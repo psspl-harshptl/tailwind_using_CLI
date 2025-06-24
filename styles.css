@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+@theme {
+    --color-custom: #da373d;  /* This how you can add custom color code to tailwind */
+    --color-black: #000;  /* This how you can override tailwind default color variable */
+}
+
+/* Custom CSS Start Here */
+
+.title {
+    color: #000;
+}
